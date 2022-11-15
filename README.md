@@ -4,6 +4,12 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
+---
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=dhruvjyotiray&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=dhruvjyotiray&theme=dark&hide_border=true" width = 400>
+</p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-DhruvjyotiRay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvjyotiray/)](https://www.linkedin.com/in/dhruvjyotiray/)
 [![Instagram Badge](https://img.shields.io/badge/-DhruvjyotiRay-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=)](https://www.instagram.com/dhruvjyotiray/)
@@ -12,8 +18,4 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 ## ⚡ Domains:
 - Internet of Things
 - Web Development
----
-<p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=dhruvjyotiray&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=dhruvjyotiray&theme=dark&hide_border=true" width = 400>
-</p>
+
