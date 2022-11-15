@@ -12,3 +12,8 @@ I'm a tech enthusiast who loves to learn about new things. Connect with me on Li
 ## ⚡ Domains:
 - Internet of Things
 - Web Development
+---
+<p align = "center">
+<img src = "https://github-readme-stats.vercel.app/api?username=dhruvjyotiray&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=dhruvjyotiray&theme=dark&hide_border=true" width = 400>
+</p>
