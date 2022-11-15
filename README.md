@@ -10,7 +10,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=dhruvjyotiray&theme=dark&hide_border=true" width = 400>
 </p>
 
-
+<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DhruvjyotiRay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvjyotiray/)](https://www.linkedin.com/in/dhruvjyotiray/)
 [![Gmail Badge](https://img.shields.io/badge/-dhruvjyoti21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjyoti21@gmail.com)](dhruvjyoti21@gmail.com)
