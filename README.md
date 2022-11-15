@@ -1,5 +1,4 @@
  <div align="center">
- 
  ### Hello World!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
 
 <p align = "center">I'm a tech enthusiast who loves to learn about new things 👨🏻‍💻 Connect with me on LinkedIn.</p>
