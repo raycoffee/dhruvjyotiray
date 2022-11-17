@@ -53,6 +53,6 @@
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-DhruvjyotiRay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruvjyotiray/)](https://www.linkedin.com/in/dhruvjyotiray/)
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjyoti21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjyoti21@gmail.com)](dhruvjyoti21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjyotiray@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjyotiray@gmail.com)](dhruvjyotiray@gmail.com)
 
  </div>
